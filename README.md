@@ -8,6 +8,10 @@
 
 -   [Mixin 이란?](https://github.com/bongjoki/TIL/blob/master/Vue/Mixin.md)
 
+### Nuxt
+
+-   [asyncData()](https://github.com/bongjoki/TIL/blob/master/Nuxt/AsyncData.md)
+
 ### Git
 
 -   [Git rebase하는 방법](https://github.com/bongjoki/TIL/blob/master/Git/Rebase.md)
