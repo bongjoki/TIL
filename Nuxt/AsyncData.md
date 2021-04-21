@@ -37,4 +37,4 @@ export default {
 
 ### 참조
 
-[[TIL] Nuxt.js asyncData 메서드](https://velog.io/@nungsun/TIL-Nuxt.js-asyncData-%EB%A9%94%EC%84%9C%EB%93%9C)
+> [[TIL] Nuxt.js asyncData 메서드](https://velog.io/@nungsun/TIL-Nuxt.js-asyncData-%EB%A9%94%EC%84%9C%EB%93%9C)

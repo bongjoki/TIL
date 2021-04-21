@@ -59,4 +59,4 @@ document.writeln(uniqueArr);
 
 ## 참조
 
-[[Javascript] 배열 중복 제거하는 3가지 방법](https://hianna.tistory.com/422)
+> [[Javascript] 배열 중복 제거하는 3가지 방법](https://hianna.tistory.com/422)

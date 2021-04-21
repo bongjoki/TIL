@@ -47,4 +47,4 @@ module.exports = {
 
 ## 참조
 
-[운영 빌드 시 console.log 제거하기. 덤으로 no-console 에러도 해결](https://gitabout.com/3)
+> [운영 빌드 시 console.log 제거하기. 덤으로 no-console 에러도 해결](https://gitabout.com/3)
