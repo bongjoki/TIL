@@ -13,6 +13,7 @@
 
 -   [asyncData(),fetch()](https://github.com/bongjoki/TIL/blob/master/Nuxt/AsyncData_And_Fetch.md)
 -   [Scss 설정(전역 스타일,변수,믹스인)](https://github.com/bongjoki/TIL/blob/master/Nuxt/Setting_Scss_Up.md)
+-   [.nuxt 폴더](https://github.com/bongjoki/TIL/blob/master/Nuxt/Directory_Structure_Dot_Nuxt.md)
 
 ### Git
 
