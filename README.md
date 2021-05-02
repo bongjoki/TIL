@@ -14,6 +14,7 @@
 -   [Props](https://github.com/bongjoki/TIL/blob/master/Vue/Props.md)
 -   [Mixin](https://github.com/bongjoki/TIL/blob/master/Vue/Mixin.md)
 -   [Filter](https://github.com/bongjoki/TIL/blob/master/Vue/Filter.md)
+-   [Slot](https://github.com/bongjoki/TIL/blob/master/Vue/Slot.md)
 
 ### Nuxt
 
